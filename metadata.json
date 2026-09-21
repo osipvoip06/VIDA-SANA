@@ -1,0 +1,6 @@
+{
+  "name": "Vida Sana - Smart POS & Cloud ERP",
+  "description": "Sistema de Punto de Venta (POS), control de inventario botánico por lotes y sincronización en tiempo real con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
